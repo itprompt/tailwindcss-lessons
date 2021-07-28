@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Chulabhorn Likhit Text Bold';
+    src: url('./font-chulabhorn-likhit/ChulabhornLikhitText-Bold.woff2') format('woff2'),
+        url('./font-chulabhorn-likhit/ChulabhornLikhitText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likhit Text Medium';
+    src: url('./font-chulabhorn-likhit/ChulabhornLikhitText-Medium.woff2') format('woff2'),
+        url('./font-chulabhorn-likhit/ChulabhornLikhitText-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likhit Display Medium';
+    src: url('./font-chulabhorn-likhit/ChulabhornLikhitDisplay-Medium.woff2') format('woff2'),
+        url('./font-chulabhorn-likhit/ChulabhornLikhitDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likhit Text Regular';
+    src: url('./font-chulabhorn-likhit/ChulabhornLikhitText-Regular.woff2') format('woff2'),
+        url('./font-chulabhorn-likhit/ChulabhornLikhitText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likhit Text Light';
+    src: url('./font-chulabhorn-likhit/ChulabhornLikhitText-Light.woff2') format('woff2'),
+        url('./font-chulabhorn-likhit/ChulabhornLikhitText-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
