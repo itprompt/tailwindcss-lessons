@@ -1,0 +1,19 @@
+{
+    "name": "tailwind",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build-tailwindcss": "tailwindcss build --input css/skel.css --output css/style.css",
+        "build-tailwindcss-jit": "tailwindcss build --input css/skel.css --output css/style.css --jit --purge ./**/*.{htm,html,js,jsx,ts,vue}",
+        "build-tailwindcss-production": "tailwindcss build --input css/skel.css --output css/style.css --jit --purge ./**/*.html --minify"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "autoprefixer": "^10.3.1",
+        "postcss": "^8.3.6",
+        "tailwindcss": "^2.2.6"
+    }
+}
